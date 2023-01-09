@@ -23,6 +23,7 @@ This site is currently hosted by Netlify.
 ## Live Site
 
 The site can be currently accessed [here](https://today-i-learned-caitlin-malloch.netlify.app/)
+
 https://today-i-learned-caitlin-malloch.netlify.app/
 
 ## UI Preview
