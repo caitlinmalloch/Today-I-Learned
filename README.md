@@ -1,5 +1,7 @@
 # Today I Learned
 
+![Today I Learned](./public/logo.png)
+
 ## Overview
 
 Today I Learned is a full-stack web application that allows users to add to an existing database of facts, sorted by category. The facts must use a reliable source that is shared with the fact and users can dispute a fact by voting false under the fact, which will be reviewed by the administrator. Users can also vote for the fact being "interesting" and "mind-blowing".
